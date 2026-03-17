@@ -1,0 +1,21 @@
+{
+  "name": "heroku-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/at-dungnn/heroku-automation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/at-dungnn/heroku-automation/issues"
+  },
+  "homepage": "https://github.com/at-dungnn/heroku-automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0"
+  }
+}
